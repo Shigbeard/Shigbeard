@@ -3,8 +3,7 @@
 <div align="center">
 
 
-[<img align="center" alt="ko-fi Donations" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>][ko-fi]
-[<img align="center" alt="PayPal Donations" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>][paypal]
+
 [<img align="center" alt="Steam" src="https://img.shields.io/badge/Steam-144475.svg?&style=for-the-badge&logo=steam&logoColor=white" />][steam]
 [<img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-5560E9.svg?&style=for-the-badge&logo=discord&logoColor=white" />][discord]
 
